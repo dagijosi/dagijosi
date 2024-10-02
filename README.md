@@ -56,8 +56,8 @@ An admin dashboard that helps manage coffee suppliers and their farms, displayed
 ## 📫 Connect with Me!
 
 - **Email**: [dagijossy18@gmail.com](mailto:dagijossy18@gmail.com)
-- **LinkedIn**: [Dagmawi Yosesph](https://www.linkedin.com/in/dagmawi-yoseph)
-- **GitHub**: [github.com/dagmawi-yosesph](https://github.com/dagijosi)
+- **LinkedIn**: [Dagmawi Yosesph](https://www.linkedin.com/in/dagmawi-yoseph-4b4aa6296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **GitHub**: [github.com/dagijosi](https://github.com/dagijosi)
 
 ---
 
