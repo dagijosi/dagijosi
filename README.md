@@ -43,13 +43,6 @@ I'm currently building a **Coffee Suppliers Dashboard** that provides real-time 
 
 ---
 
-## 📈 GitHub Stats
-
-![Dagmawi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dagmawi-yosesph&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawi-yosesph&layout=compact&theme=radical)
-
----
-
 ## 🛠️ Notable Projects
 
 ### 🛠️ [**Website Builder**](https://github.com/username/website-builder)
