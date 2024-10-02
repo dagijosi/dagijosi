@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Dagmawi Yosesph!
 
-Welcome to my GitHub profile! I'm a **FullStack Developer** with a deep passion for building innovative web solutions and contributing to open-source projects. My goal is to create robust, scalable, and intuitive applications that provide an exceptional user experience. Whether working on backend services or crafting sleek user interfaces, I'm always looking for new ways to challenge myself and improve my skills.
+Welcome to my GitHub profile! I'm a **FullStack Developer** with a deep passion for building innovative web solutions. My goal is to create robust, scalable, and intuitive applications that provide an exceptional user experience. Whether working on backend services or crafting sleek user interfaces, I'm always looking for new ways to challenge myself and improve my skills.
 
 ---
 
@@ -45,10 +45,10 @@ I'm currently building a **Coffee Suppliers Dashboard** that provides real-time 
 
 ## 🛠️ Notable Projects
 
-### 🛠️ [**Website Builder**](https://github.com/username/website-builder)
+### 🛠️ [**Website Builder**](https://github.com/dagijosi/web-builder)
 A fully customizable **drag-and-drop website builder** built with **React** and **TailwindCSS**. This project allows users to design web pages with resizable and draggable components, exportable as plain HTML/CSS/JS code.
 
-### 🛠️ [**Coffee Suppliers Dashboard**](https://github.com/username/coffee-suppliers-dashboard)
+### 🛠️ [**Coffee Suppliers Dashboard**](https://github.com/dagijosi/ET-Coffee-EUDR)
 An admin dashboard that helps manage coffee suppliers and their farms, displayed on a **Leaflet**-based interactive map. Users can filter farms, view real-time information, and track coffee production statuses.
 
 ---
@@ -56,8 +56,8 @@ An admin dashboard that helps manage coffee suppliers and their farms, displayed
 ## 📫 Connect with Me!
 
 - **Email**: [dagijossy18@gmail.com](mailto:dagijossy18@gmail.com)
-- **LinkedIn**: [Dagmawi Yosesph](https://www.linkedin.com/in/username)
-- **GitHub**: [github.com/dagmawi-yosesph](https://github.com/dagmawi-yosesph)
+- **LinkedIn**: [Dagmawi Yosesph](https://www.linkedin.com/in/dagmawi-yoseph)
+- **GitHub**: [github.com/dagmawi-yosesph](https://github.com/dagijosi)
 
 ---
 
