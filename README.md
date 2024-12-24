@@ -67,3 +67,11 @@ An admin dashboard that helps manage coffee suppliers and their farms, displayed
 - 🎨 I also love working on UI/UX design, making sure every application I build is not only functional but beautiful too.
 
 Thanks for stopping by my profile! If you have a project idea, want to collaborate, or just want to chat about tech, feel free to reach out. I’m always happy to connect with like-minded individuals!
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/dagijosi"><img src="https://github-readme-stats.vercel.app/api?username=dagijosi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dagijosi GitHub stats" /></a> 
+
+<a href="http://www.github.com/dagijosi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dagijosi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<!--<a href="https://github.com/solomon-winner" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-winner&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" /></a> --> 
