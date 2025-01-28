@@ -1,7 +1,3 @@
-Here’s a shortened and concise version of your GitHub profile README:
-
----
-
 # Hi there 👋, I'm Dagmawi Yosesph!
 
 I'm a **FullStack Developer** passionate about building innovative web solutions. I specialize in creating robust, scalable, and intuitive applications with a focus on both backend services and sleek user interfaces.
