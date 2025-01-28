@@ -1,17 +1,20 @@
+Here’s a shortened and concise version of your GitHub profile README:
+
+---
+
 # Hi there 👋, I'm Dagmawi Yosesph!
 
-Welcome to my GitHub profile! I'm a **FullStack Developer** with a deep passion for building innovative web solutions. My goal is to create robust, scalable, and intuitive applications that provide an exceptional user experience. Whether working on backend services or crafting sleek user interfaces, I'm always looking for new ways to challenge myself and improve my skills.
+I'm a **FullStack Developer** passionate about building innovative web solutions. I specialize in creating robust, scalable, and intuitive applications with a focus on both backend services and sleek user interfaces.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 I hold a Bachelor's degree in **Computer Science** from [HilCoE School of Science and Technology](https://www.hilcoe.net) (Class of 2023).
-- 🔭 I’m always experimenting with the latest web technologies and love diving deep into the world of **FullStack development**.
-- 🌱 Currently, I’m expanding my expertise in **React** and **TypeScript**, focusing on building dynamic, responsive applications.
-- 🚀 I have experience creating tools like **drag-and-drop website builders**, custom dashboards, and interactive maps.
-- 💡 I’m a **problem-solver** at heart, always eager to tackle complex challenges in both frontend and backend development.
-- 💼 Open to collaborations and freelance work – feel free to reach out if you have an exciting project!
+- 🎓 Bachelor's in **Computer Science** from [HilCoE School of Science and Technology](https://www.hilcoe.net) (2023).
+- 🔭 Experimenting with the latest web technologies and diving deep into **FullStack development**.
+- 🌱 Expanding my expertise in **React** and **TypeScript**.
+- 💡 Problem-solver with experience in **drag-and-drop website builders**, custom dashboards, and interactive maps.
+- 💼 Open to collaborations and freelance work – let’s connect!
 
 ---
 
@@ -33,46 +36,39 @@ Welcome to my GitHub profile! I'm a **FullStack Developer** with a deep passion 
 
 ---
 
-## 🔥 What I’m Working On
+## 🔥 Projects
 
 ### 🌐 **Website Builder**
-I’m developing a **React-based website builder** that allows users to create fully responsive websites through an intuitive **drag-and-drop interface**. This project includes features such as resizable components, customizable element properties (padding, margins, etc.), and the ability to export **HTML**, **CSS**, and **JavaScript** code. My goal is to empower users to build web pages without needing to write code, while offering advanced customization for developers.
+A **React-based drag-and-drop website builder** with resizable components, customizable properties, and exportable HTML/CSS/JS code.
 
 ### 🗺️ **Coffee Suppliers Dashboard**
-I'm currently building a **Coffee Suppliers Dashboard** that provides real-time information about coffee suppliers, farms, and their locations on an interactive map. Using **React** for the UI and **Leaflet** for map rendering, this tool enables users to track farms, view details about coffee production, and monitor the status of various coffee suppliers. The app offers advanced filtering and a clean, modern UI using **TailwindCSS**.
-
----
-
-## 🛠️ Notable Projects
-
-### 🛠️ [**Website Builder**](https://github.com/dagijosi/web-builder)
-A fully customizable **drag-and-drop website builder** built with **React** and **TailwindCSS**. This project allows users to design web pages with resizable and draggable components, exportable as plain HTML/CSS/JS code.
-
-### 🛠️ [**Coffee Suppliers Dashboard**](https://github.com/dagijosi/ET-Coffee-EUDR)
-An admin dashboard that helps manage coffee suppliers and their farms, displayed on a **Leaflet**-based interactive map. Users can filter farms, view real-time information, and track coffee production statuses.
+A **React** and **Leaflet**-powered dashboard for tracking coffee suppliers, farms, and production statuses with advanced filtering and a modern UI.
 
 ---
 
 ## 📫 Connect with Me!
 
 - **Email**: [dagijossy18@gmail.com](mailto:dagijossy18@gmail.com)
-- **LinkedIn**: [Dagmawi Yosesph](https://www.linkedin.com/in/dagmawi-yoseph-4b4aa6296?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- **LinkedIn**: [Dagmawi Yosesph](https://www.linkedin.com/in/dagmawi-yoseph-4b4aa6296)
 - **GitHub**: [github.com/dagijosi](https://github.com/dagijosi)
 
 ---
 
 ## ✨ Fun Facts
-- 💻 When I'm not coding, you’ll find me experimenting with new design ideas or exploring the latest tech trends.
-- 🌍 I enjoy working on projects that have a real-world impact and contribute to the community.
-- 🎨 I also love working on UI/UX design, making sure every application I build is not only functional but beautiful too.
+- 💻 Love experimenting with new design ideas and tech trends.
+- 🌍 Passionate about projects with real-world impact.
+- 🎨 Enjoy crafting beautiful and functional UI/UX designs.
 
-Thanks for stopping by my profile! If you have a project idea, want to collaborate, or just want to chat about tech, feel free to reach out. I’m always happy to connect with like-minded individuals!
+---
 
-<b>My GitHub Stats</b>
+<b>GitHub Stats</b>
 
 <a href="http://www.github.com/dagijosi"><img src="https://github-readme-stats.vercel.app/api?username=dagijosi&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="dagijosi GitHub stats" /></a> 
 
 <a href="http://www.github.com/dagijosi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dagijosi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/dagijosi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagijosi&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
-[![committers.top badge](https://user-badge.committers.top/ethiopia/USERNAME.svg)](https://user-badge.committers.top/ethiopia/dagijosi)
+<a href="https://github.com/dagijosi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagijosi&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Top Languages"/></a>
+
+---
+
+Let’s build something amazing together! 🚀
