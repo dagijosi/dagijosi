@@ -65,6 +65,8 @@ A **React** and **Leaflet**-powered dashboard for tracking coffee suppliers, far
 
 <a href="https://github.com/dagijosi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagijosi&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Top Languages"/></a>
 
+[![committers.top badge](https://user-badge.committers.top/ethiopia_public/dagijosi.svg)](https://user-badge.committers.top/ethiopia_public/dagijosi)
+
 ---
 
 Let’s build something amazing together! 🚀
