@@ -74,5 +74,5 @@ Thanks for stopping by my profile! If you have a project idea, want to collabora
 
 <a href="http://www.github.com/dagijosi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dagijosi&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://github.com/venopyX"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagijosi&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
+<a href="https://github.com/dagijosi"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=dagijosi&langs_count=14&show_icons=true&locale=en&layout=compact&theme=tokyonight" width="470px"  alt="Gemechis"/></a>
 [![committers.top badge](https://user-badge.committers.top/ethiopia/USERNAME.svg)](https://user-badge.committers.top/ethiopia/dagijosi)
